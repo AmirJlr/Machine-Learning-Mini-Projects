@@ -4,7 +4,19 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
   
-  <li><h3>EDA</h3></li>
+  
+  <ul>
+  
+  <li><h3>EDA(Exploratory Data Analysis)</h3></li>
+  
+  <li><h3>Dimensionality Reduction</h3></li>
+  
+  <li><h3>Clustring</h3></li>
+    <ul>
+      <li>K-Means</li>
+      <li>DBSCAN</li>
+    </ul> 
+  
   
   <li><h3>Classification</h3></li>
     <ul>
@@ -15,18 +27,14 @@
       <li>Random Forest</li>
     </ul> 
     
-    <li><h3>Regression</h3></li>
-    <ul>
-      <li>linear regression</li>
-      <li>XGBoost Regressor</li>
-      <li>SVR(support Vector Regressor)</li>
-      <li>Random Forest</li>
-    </ul> 
-    
-    
-    <li><h3>Clustring</h3></li>
-    <ul>
-      <li>K-Means</li>
-      <li>DBSCAN</li>
-    </ul> 
   
+  <li><h3>Regression</h3></li>
+    <ul>
+      <li>Linear Regression</li>
+      <li>SVR(Support Vector Regressor)</li>
+      <li>XGBoost</li>
+    </ul>
+ 
+</ul>
+
+
